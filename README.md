@@ -1,4 +1,3 @@
-'
 # **Título/Nome do projeto** 🚀  
 
 > Breve descrição do repositório.
